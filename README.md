@@ -1,4 +1,4 @@
-# 🍽️ Predict Restaurant Ratings Using Machine Learning
+# 🍽️ Predict Restaurant Ratings
 
 This project builds and deploys a machine learning model that predicts restaurant ratings based on various input features such as cuisines, services, location, and other restaurant-related attributes.
 
